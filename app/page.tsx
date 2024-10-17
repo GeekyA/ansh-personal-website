@@ -26,7 +26,7 @@ export default function Home() {
           <div className="md:w-1/3">
             <h3 className="text-xl font-semibold mb-4 hover:text-green-500 transition-colors duration-300">Skills</h3>
             <div className="flex flex-wrap gap-2">
-              {['Python','JavaScript','SQL', 'ETL', 'React', 'NextJS','Web development', 'AWS', 'Web Scraping', 'Django', 'Elasticsearch','BeautifulSoup', 'Pandas', 'Natural Language Processing (NLP)', 'Large Language Models (LLM)', 'Machine Learning'].map((skill, index) => (
+              {['Python','JavaScript','SQL', 'React', 'NextJS', 'AWS', 'Elasticsearch','BeautifulSoup', 'Pandas', 'Git/Github'].map((skill, index) => (
                 <span key={index} className="bg-green-500 text-white px-2 py-1 rounded text-sm transition-all duration-300 hover:bg-green-400 hover:text-white hover:shadow-[0_0_10px_#4ade80] hover:scale-105">
                   {skill}
                 </span>
