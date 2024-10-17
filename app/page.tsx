@@ -10,7 +10,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="py-20 text-center">
         <h1 className="text-4xl font-bold mb-4 hover:text-green-500 transition-colors duration-300">Ansh Chadha</h1>
-        <p className="text-xl mb-8 hover:text-green-500 transition-colors duration-300">Software Engineer</p>
+        {/*<p className="text-xl mb-8 hover:text-green-500 transition-colors duration-300">Software Engineer</p>*/}
         <div className="w-64 h-64 mx-auto mb-8 rounded-full overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300">
           <Image src="/images/profile.jpg" alt="Ansh Chadha" width={3000} height={3000} className="object-cover" />
         </div>
