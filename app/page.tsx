@@ -61,7 +61,7 @@ export default function Home() {
                 </h1>
                 
                 <p className="text-xl md:text-2xl text-[var(--muted-foreground)] font-light max-w-lg">
-                  Senior Software Engineer who builds enterprise-grade systems from scratch. Specialized in AI automation and full-stack platforms that scale.
+                  Software Engineer who builds enterprise-grade systems from scratch. Specialized in AI automation and full-stack platforms that scale.
                 </p>
               </motion.div>
               
@@ -148,7 +148,7 @@ export default function Home() {
               </span>
             </h2>
             <p className="text-xl text-[var(--muted-foreground)] max-w-3xl mx-auto leading-relaxed">
-              I&apos;m a results-driven Senior Software Engineer with 3+ years of proven expertise in building enterprise-grade systems that process millions of data points and serve thousands of users.
+              I&apos;m a results-driven Software Engineer with 3+ years of proven expertise in building enterprise-grade systems that process millions of data points and serve thousands of users.
             </p>
           </motion.div>
           
@@ -373,9 +373,9 @@ export default function Home() {
                 {
                   title: 'Data Engineer',
                   company: 'Taiyō.AI',
-                  location: 'San Francisco, Californi (Remote)',
+                  location: 'San Francisco, California (Remote)',
                   period: 'September 2022 - September 2024',
-                  description: 'Engineered enterprise-grade ETL pipelines processing millions of procurement records and risk datasets for Fortune 500 clients. Built scalable data infrastructure on AWS that reduced processing time by 60% while maintaining 99.9% uptime.',
+                  description: 'Engineered enterprise-grade ETL pipelines processing millions of procurement records and risk datasets for Fortune 500 clients. Built scalable AI powered pipelines that reduced data product delivery time by 70%',
                   type: 'Full-time'
                 },
                 {
@@ -383,7 +383,7 @@ export default function Home() {
                   company: 'ByteLearn',
                   location: 'India (Remote)',
                   period: 'December 2021 - September 2022',
-                  description: 'Led dataset creation and NLP pipeline development for EdTech platform serving 10,000+ students. Implemented advanced data scraping and cleaning systems that improved content quality by 40% and reduced manual curation time.',
+                  description: 'Led dataset creation and NLP pipeline development for EdTech platform serving thousands of users. Implemented advanced data scraping and cleaning systems that improved content quality and reduced manual curation time.',
                   type: 'Internship'
                 },
                 {
