@@ -163,7 +163,7 @@ export default function Home() {
             >
               <div className="bg-[var(--surface)] border border-[var(--border)] rounded-[var(--radius-xl)] p-8 hover:shadow-[var(--shadow-lg)] transition-all duration-300">
                 <p className="text-lg text-[var(--muted-foreground)] leading-relaxed mb-6">
-                  I&apos;ve architected and deployed production systems that handle millions of real estate documents, automated complex financial processes saving thousands of hours, and built SaaS platforms from concept to paying customers. My track record spans Fortune 500 companies to cutting-edge AI startups, consistently delivering solutions that scale and drive measurable business impact.
+                  I&apos;ve architected and deployed production systems that automate complex financial processes, built AI workflows that eliminate manual work, and developed SaaS platforms from concept to deployment. My experience spans enterprise clients to cutting-edge AI startups, consistently delivering solutions that scale and drive measurable business impact.
                 </p>
                 
                 <div className="grid sm:grid-cols-2 gap-4">
@@ -259,13 +259,13 @@ export default function Home() {
               {
                 title: 'Full-Stack SaaS Platforms',
                 icon: '🚀',
-                description: 'Complete SaaS development from architecture to deployment. I built Rekpo.AI\'s entire platform - backend, frontend, and infrastructure that processes real estate data at scale.',
+                description: 'Complete SaaS development from architecture to deployment. I built Rekpo.AI\'s entire platform - backend, frontend, and infrastructure with scalable design and production-ready performance.',
                 features: ['React/Next.js Frontend', 'Python/Django Backend', 'AWS Infrastructure', 'Production Deployment']
               },
               {
                 title: 'Data Pipeline Architecture',
                 icon: '📊',
-                description: 'Enterprise ETL systems handling millions of records. My pipelines at Taiyō.AI processed procurement data and risk datasets for Fortune 500 clients.',
+                description: 'Enterprise ETL systems handling large-scale data processing. My pipelines at Taiyō.AI processed procurement data and risk datasets with robust architecture and reliable performance.',
                 features: ['Elasticsearch Integration', 'Real-time Processing', 'Data Normalization', 'Scalable Architecture']
               },
               {
@@ -367,7 +367,7 @@ export default function Home() {
                   company: 'Rekpo.AI (Gallagher & Mohan)',
                   location: 'New Delhi, India (Remote)',
                   period: 'December 2024 - Present',
-                  description: 'Single-handedly architected and deployed Rekpo.AI\'s complete SaaS platform - a production system processing thousands of real estate documents daily. Built AI workflows that eliminate 80% of manual work in lease analysis, bank reconciliation, and underwriting, delivering measurable ROI to enterprise clients.',
+                  description: 'Single-handedly architected and deployed Rekpo.AI\'s complete SaaS platform from backend to frontend and infrastructure. Built AI workflows that automate lease analysis, bank reconciliation, and underwriting processes, significantly reducing manual processing time for real estate clients.',
                   type: 'Full-time'
                 },
                 {
